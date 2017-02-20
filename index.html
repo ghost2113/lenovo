@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link rel="stylesheet" href="css/main.css"/>
+		<link rel="stylesheet" href="css/style.css"/>
+		<script src="http://libs.baidu.com/jquery/2.0.0/jquery.js"></script>
+		<script type="text/javascript" src="js/index.js"></script>
+		<script type="text/javascript" src="js/floor.js"></script>
+		<script type="text/javascript" src="js/floor_nav.js"></script>
+		<script type="text/javascript" src="js/index_slide.js" ></script>
+		<script type="text/javascript" src="js/register.js" ></script>
+		<script type="text/javascript" src="js/jquery.cookie.js" ></script>
+		<script type="text/javascript" src="js/login.js" ></script>
+	</head>
+	<body>
+		<!---------------------------------------头部------------------------------------------------->
+		<div id="header">
+			<div class="header">
+				<ul class="header_nav">
+					<li><a href="" target="_blank">个人及家用产品库</a><em></em></li>
+					<li><a href="" target="_blank">商用桌面产品库</a><em></em></li>
+					<li><a href="" target="_blank">企业级产品库</a><em></em></li>
+					<li><a href="" target="_blank">聚享汇会员专享</a><em></em></li>
+				</ul>
+				<div class="header_title">
+					社交平台
+					<a href="javascript:;"></a>
+					<em></em>
+				    <ul class="header_title_content">
+						<li>
+							<a class="header_tit" href="#">
+								<span style="background-position:-3px -269px;"></span>
+								<em>联想官方微博</em>
+							</a>
+						</li>
+						<li>						
+							<a href="#">
+								<span style="background-position:-38px -270px;"></span>
+								<em>袁元庆微博</em>
+							</a>
+						</li>
+						<li>						
+							<a href="#">
+								<span style="background-position:-74px -269px;"></span>
+								<em>联想官方微信</em>
+							</a>
+						</li>
+						<li>						
+							<a href="#">
+								<span style="background-position:-108px -269px;"></span>
+								<em>百度联想贴吧</em>
+							</a>
+						</li>
+						<li>						
+							<a href="#">
+								<span style="background-position:-142px -269px;"></span>
+								<em>联想qq部落</em>
+							</a>
+						</li>
+			             <li>						
+							<a href="#">
+								<span style="background-position:-176px -269px;"></span>
+								<em>联想qq部落</em>
+							</a>
+						</li>
+						<li>												
+							<a href="#">
+								<span style="background-position:-210px -269px;"></span>
+								<em>联想qq空间</em>
+							</a>
+						</li>
+						<li>												
+							<a href="#">
+								<span style="background-position:-244px -269px;"></span>
+								<em>联想官方社区</em>
+							</a>
+						</li><!---->
+				    </ul>
+				</div>
+				
+				
+				<div  class="header_phone">
+					手机版
+					<a href="javascript:;"></a>
+					<div class="header_phone_slide">
+						<em class="imgcode"></em>
+						<p class="op1">联想商城客户端</p>
+						<p class="op2">首次下单立减20元</p>
+                        <span class="code_img"></span>
+					</div>
+				</div>	
+				
+				<div class="header_sale">
+					购物车
+					<a class="shopcart" href="javascript:;"></a>
+					
+				</div>
+				
+				<ul class="header_login">
+					<li><a class="login_open" href="javascript:;">登陆</a><em></em></li>
+					<li><a class="register_open" href="javascript:;">注册</a></li>
+				</ul>
+				
+				
+
+			</div>
+		</div>
+<!-----------------------------登陆界面父级为body------------------------------>	
+<div class="login_bg">
+	<div class="login">
+		<div class="login_title">
+			<h3>普通登录</h3>
+			<h3 style="margin-left:1px;">快捷登录</h3>
+			<button class="login_bg_close"></button>
+		</div>
+		<div class="login_name">
+			<div></div>
+			<input class="login_name_phone1" type="text" placeholder="请输入用户名"/>
+			<input class="login_phone2" type="text" placeholder="请输入用户名/邮箱"/>
+		</div>
+		<div class="login_pass">
+			<div></div>
+			<input class="login_pass_phone1" type="text" placeholder="请输入密码"/>
+			<input class="login_code_value" type="text" placeholder="动态密码"/>
+			<span class="login_code">获取动态密码</span>
+		</div>
+		<div class="login_check">
+			<input type="checkbox" />
+			<span>自动登录</span>
+		</div>
+		<input  class="login_submit" type="submit" value="登录"/>
+		<div class="login_footer">
+			<a href="javascript:;">立即注册</a><span></span>
+			<a href="javascript:;">忘记密码？</a>
+		</div>
+		
+		<p class="login_link_title">使用合作网站账号登录</p>
+		<ul class="login_link">
+			<a style="background:url(http://m1.lefile.cn/lenovo_passport/0.4.9/images/ico_qq.png);" href="javascript:;"></a>
+			<a style="background:url(http://m2.lefile.cn/lenovo_passport/0.4.9/images/ico_sina.png)" href="javascript:;"></a>
+			<a style="background:url(http://m2.lefile.cn/lenovo_passport/0.4.9/images/ico_wc.png)" href="javascript:;"></a>
+			<a style="background:url(http://m1.lefile.cn/lenovo_passport/0.4.9/images/ico_zfb.png)" href="javascript:;"></a>
+		</ul>
+		
+		<div class="login_link"></div>
+	</div>
+</div>
+<!-----------------------------注册界面父级为body------------------------------>
+				<div class="register_bg">
+					<div class="register">
+						<div class="register_title">
+							<h1>欢迎注册联想会员</h1>
+							<button></button>
+						</div>
+						<div id="register_content" class="register_content">
+							<span>账号</span>
+							<input id="name" class="input1" type="text" placeholder="请输入用户名/邮箱/账户名">
+							<p class="errormsg_name">*此项为必填项</p>
+							
+		                    <span>密码</span>
+							<input id="password" class="input1" type="password" placeholder="请输入密码">
+							<p class="errormsg_password">*此项为必填项</p>
+							
+							<span>确认密码</span>							
+							<input  id="password_check" class="input1" type="password" placeholder="">
+							<p class="errormsg_password_check">*此项为必填项</p>
+							
+							
+							<span>验证码</span>							
+							<input class="codevalue" type="text" placeholder="">
+							<span class="code"></span>
+							<button class="changecode">换一张</button>
+			                <p class="coderesult">*此项为必填项</p>
+			                <br />
+			                
+							
+							<p class="p_check"><input id="check" class="check" type="checkbox" checked="" />请同意联想的隐藏<a href="javascript:;">条款和协议</a></p>
+							
+							<input class="submit" type="submit" value="立即注册" />
+							
+						</div>
+					</div>
+				</div>		
+		<!-----------------------------------内容区------------------------->
+<!-------------------------------------------轮播图----------------------------------------------->
+	    <div id="content">
+	    	<div class="logotext">
+	    		<div class="logo"></div>
+	    		<form class="seacher" name="myform" method="post" action="">
+	    			
+	    		<input class="seachertext" type="text" placeholder="mill5"/>
+	    		<div class="seacherbtn">
+	    			<a href="javascript:;"><img src="img/icons_sprit.png"/></a>
+	    		</div>
+	    		</form>
+	    	</div>
+	    	<div class="nav_index">
+	    		<div class="nav_img">
+	    			<a href="#"><img src="img/2a183a8b-4747-482f-8558-9e3df44590c2.jpg"/></a>
+	    		</div>
+	    		<ul class="nav_box">
+	    			<li>
+	    				<a href="#">小新Air Pro</a>
+	    				<span class="span1"></span>
+	    			</li>
+	    			<li>
+	    				<a href="#">爆款</a>
+	    				<div class="hotgoods_list">
+	    			        <a href="#">小新Air 12</a>
+	    					<a href="#">小新Air13 Pro</a>
+	    					<a href="#">小新310</a>
+	    					<a href="#">拯救者游戏本</a>
+	    					<a href="#">ThinkPad New S2</a>
+	    					<a href="#">看家宝Snowman</a>
+	    					<a href="#">小新700</a>
+	    				</div>
+	    			</li>
+	    			<li>
+	    				<a href="#">联想合伙人</a>
+	    				<span class="span2"></span>
+	    			</li>
+	    			<li>
+	    				<a href="#">0元试用</a>
+	    			</li>
+	    			<li>
+	    				<a href="#">以旧换新</a>
+	    			</li>
+	    			<li>
+	    				<a href="#">私人定制</a>
+	    			</li>
+	    			<li>
+	    				<a href="#">服务</a>
+	    				<div class="service_list">
+	    					<a href="#">小新Air 12</a>
+	    					<a href="#">小新Air13 Pro</a>
+	    					<a href="#">小新310</a
+	    				</div>
+	    			</li>
+	    			<li>
+	    				<a href="#">社区</a>
+	    			</li>
+	    		</ul>
+	    	</div>
+	    	<div class="menu">
+	    	<!--json获取选项卡数据-->
+<!--	    	<div class="list_cont">
+	    			<div class="list_lt">
+	    				<div class="list_lta">
+	    					<p>笔记本</p>
+	    					<ul class="clearfix">
+	    						<li><a href="#">哈哈</a></li>
+	    						<li><a href="#">飞但是</a></li>
+	    						<li><a href="#">飞但是</a></li>
+	    					</ul>	
+	    				</div>
+	    				<div class="list_lta">
+	    					<p>笔记本</p>
+	    					<ul class="clearfix">
+	    						<li><a href="#">哈哈</a></li>
+	    						<li><a href="#">飞但是</a></li>
+	    						<li><a href="#">飞但是</a></li>
+	    					</ul>	
+	    				</div>
+	    			</div>
+	    			<div class="list_rt">
+	    				<a href=""><img src="http://p3.lefile.cn/product/adminweb/2016/09/23/4a50384d-d437-4c19-8778-ae1cb2324c40.jpg"/></a>
+	    				<a href=""><img src="http://p2.lefile.cn/product/adminweb/2016/09/23/dac2a37c-1e84-46a7-8430-df66cbb2228e.jpg"/></a>
+	    			</div>
+	    		</div>-->
+	    		
+	    		
+	    		<ul id="menusideleft" class="menusideleft">
+	    			<li>Lenovo电脑<span></span></li>
+	    			<li>ThinkPad电脑<span></span></li>
+	    			<li>平板电脑<span></span></li>
+	    			<li>手机<span></span></li>
+	    			<li>通信卡<span></span></li>
+	    			<li>打印机<span></span></li>
+	    			<li>智能数码<span></span></li>
+	    			<li>电脑增值服务<span></span></li>
+	    			<li style="height:44px;">商用产品<span></span></li>
+	    		</ul>
+	    		
+	    		<div class="menucontent">
+	    			<div class="box">
+	    				<div class="screen">
+	    					<ul>
+	    						<li><img src="img/1.jpg"></li>
+					            <li><img src="img/2.jpg"></li>
+					            <li><img src="img/3.jpg"></li>
+					            <li><img src="img/4.jpg"></li>
+					            <li><img src="img/5.jpg"></li>
+					            <li><img src="img/6.jpg"></li>
+	    					</ul>
+	    				</div>
+						<ol>
+							<li class="current"></li>
+					        <li></li>
+					        <li></li>
+					        <li></li>
+					        <li></li>
+					        <li></li>
+						</ol>
+						<button class="last"></button>
+						<button class="next"></button>
+	    			</div>
+	    		    <div class="information">
+	    				<div class="subimgauto">
+	    					<div class="subimgauto_bg"></div>
+	    					<ul>
+		    					<li>
+		    						联想APP客户端乐豆抽奖大战开始啦，赶快下载抽取大奖，miix平板等着你！
+		    					</li>
+		    					<li>
+		    						四年延保，沸腾国庆！
+		    					</li>
+		    					<li>
+		    						联想APP客户端乐豆抽奖大战开始啦，赶快下载抽取大奖，miix平板等着你！
+		    					</li>
+	    					</ul>
+	    				</div>
+	    				<div class="imgtitle">
+	    					精彩讨论
+	    					<a href="#">更多</a>
+	    				</div>
+	    				<ul class="infornews">
+	    					<li><a href="#">【评测】一款高颜值笔记本的告白</a></li>
+	    					<li><a href="#">【评测】Moto Z+哈苏模块≈单反体验</a></li>
+	    					<li><a href="#">【活动】分享你的怀旧珍藏赢好礼</a></li>
+	    					<li><a href="#">【体验】诠释轻薄与性能的小新 Air 13 Pro</a></li>
+	    					<li><a href="#">【小白课堂】小新笔记本还能这样玩</a></li>
+	    					<li><a href="#">【活动】联想智能存储有奖征名</a></li>
+	    					<li><a href="#">【选本】新晋二合一笔记本推荐</a></li>
+	    				</ul>
+	    			</div>
+	    		</div>
+	    	</div>
+	<!-- ---------------------   -------------热门推荐	------------------------------------->
+	    	<div class="recommend">
+	    		<div class="re_title">
+	    			<img src="http://pic.shop.lenovo.com.cn/g1/M00/01/4C/CmBZD1aXk7qAQgetAAAQAdMVMFM526.jpg" />
+	    		</div>
+	    		<div class="re_img">
+		    		<ul>
+		    			<li><a href="#"><img src="http://p2.lefile.cn/product/adminweb/2016/10/21/f6e528db-5b0c-4888-a256-0ecf3e5a5435.jpg"/></a></li>
+		    			<li><a href="#"><img src="http://p3.lefile.cn/product/adminweb/2016/08/24/aaece7f6-1d7e-4e96-8d1c-1c9ed366be4e.jpg"/></a></li>
+		    			<li><a href="#"><img src="http://p3.lefile.cn/product/adminweb/2016/08/31/e3774c99-5e39-4dfd-ba95-c3773f33ba3a.jpg"/></a></li>
+		    			<li><a href="#"><img src="http://p3.lefile.cn/product/adminweb/2016/08/24/499466fa-07ed-4785-b063-750c61f25f99.jpg"/></a></li>
+		    		    <li><a href="#"><img src="http://p3.lefile.cn/product/adminweb/2016/05/13/788fa5f1-0984-41ed-81bf-032e9e047a73.jpg"/></a></li>
+		    		    <li><a href="#"><img src="http://pic.shop.lenovo.com.cn/g1/M00/01/52/CmBZEFacuV-AepLDAABw0evDhK4881.jpg"/></a></li>
+		    		</ul>
+	    		</div>
+	    	</div>
+	<!------------------------------------- 明星单品 --------------------------------------  -->	
+	    	<div name="subfloor" class="star">
+	    		<h3 class="hh">
+	    			明星单品
+	    		    <button class="btn1"></button>
+	    		    <button class="btn2"></button>
+	    		</h3>
+	    		<div class="star_product">
+	    			<ul class="star_box">
+	    				<li>
+		    				<a>
+		    					<img src="http://p4.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w180.jpg"/>
+		    				</a>		    				
+		    				<p class="p_text p1">小新Air 12 (6Y30/Windows 10 </p>
+		    				<p class="p_text p2">轻薄本！火热发售！</p>
+		    				<p class="p_text p3">3,999元</p>	    					
+		    				
+	    			    </li>
+	    			    	    				<li>
+		    				<a>
+		    					<img src="http://p2.lefile.cn/product/adminweb/2016/08/16/GcCHbiDmUV9PMTYwCa7pCpqpm-0128.w180.jpg"/>
+		    				</a>		    				
+		    				<p class="p_text p1">小新Air 12 (6Y30/Windows 10 </p>
+		    				<p class="p_text p2">轻薄本！火热发售！</p>
+		    				<p class="p_text p3">3,999元</p>	    					
+		    				
+	    			    </li>
+	    			    	    				<li>
+		    				<a>
+		    					<img src="http://p1.lefile.cn/product/adminweb/2016/07/07/xhnZsi3lBFcvcC2QYvOjL27xE-9964.w180.jpg"/>
+		    				</a>		    				
+		    				<p class="p_text p1">小新Air 12 (6Y30/Windows 10 </p>
+		    				<p class="p_text p2">轻薄本！火热发售！</p>
+		    				<p class="p_text p3">3,999元</p>	    					
+		    				
+	    			    </li>
+	    			    	    				<li>
+		    				<a>
+		    					<img src="http://p4.lefile.cn/product/adminweb/2016/08/16/ZiHG29LjNlXsL7jAat0H4YCgl-9203.w180.jpg"/>
+		    				</a>		    				
+		    				<p class="p_text p1">小新Air 12 (6Y30/Windows 10 </p>
+		    				<p class="p_text p2">轻薄本！火热发售！</p>
+		    				<p class="p_text p3">3,999元</p>	    					
+		    				
+	    			    </li>
+	    			    	    				<li>
+		    				<a>
+		    					<img src="http://p4.lefile.cn/product/adminweb/2016/08/24/ERNAeyHh3wIKB4CEyS4jIf0wv-6372.w180.jpg"/>
+		    				</a>		    				
+		    				<p class="p_text p1">小新Air 12 (6Y30/Windows 10 </p>
+		    				<p class="p_text p2">轻薄本！火热发售！</p>
+		    				<p class="p_text p3">3,999元</p>	    					
+		    				
+	    			    </li>
+	    			    	    				<li>
+		    				<a>
+		    					<img src="http://p4.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w180.jpg"/>
+		    				</a>		    				
+		    				<p class="p_text p1">小新Air 12 (6Y30/Windows 10 </p>
+		    				<p class="p_text p2">轻薄本！火热发售！</p>
+		    				<p class="p_text p3">3,999元</p>	    					
+		    				
+	    			    </li>
+	    			    	    				<li>
+		    				<a>
+		    					<img src="http://p2.lefile.cn/product/adminweb/2016/01/27/2b4POAeHdJKapyA3ioi5hPlm0-7558.w180.jpg"/>
+		    				</a>		    				
+		    				<p class="p_text p1">小新Air 12 (6Y30/Windows 10 </p>
+		    				<p class="p_text p2">轻薄本！火热发售！</p>
+		    				<p class="p_text p3">3,999元</p>	    					
+		    				
+	    			    </li>
+	    			</ul>
+	    			
+	    		</div>
+	    	</div>
+	<!------------------------------------- 楼层--------------------------------------  -->
+
+	        	
+	        <div id="floor" class="floor">
+        <!--<div class="subfloor">
+	    		<div class="floor_title">
+	    			<h3 class="h3">1F Lenovo 电脑</h3>
+	    			<div class="floor_title_nav">
+	    				<a href="#">YOGA4 Pro系列</a>
+	    				<a href="#">V4000系列	</a>
+	    				<a href="#">V4000系列	</a>
+	    				<a href="#">V4000系列	</a>
+	    				<a href="#">V4000系列	</a>
+	    				<a href="#">更多</a><span></span>
+	    			</div>
+	    		</div>
+	    		<div class="floor_content">
+		    		<div class="floor_left">
+		    			<a><img class="imgleft" src="http://p3.lefile.cn/product/adminweb/2016/08/09/f86ca940-3cc3-4711-a0d1-3a41317c02b0.jpg"/></a>
+		    		</div>
+		    		<div class="floor_right">
+		    			<div class="floor_img">
+			    			<a><img src="http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg"/></a>
+			    			<p class="p_text p1">小新Air 12 (6Y30/Windows 10 </p>
+				    		<p class="p_text p2">轻薄本！火热发售！</p>
+				    	    <p class="p_text p3">3,999元</p>	
+			    	    </div>
+			    	    <div class="floor_img">
+			    			<a><img src="http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg"/></a>
+			    			<p class="p_text p1">小新Air 12 (6Y30/Windows 10 </p>
+				    		<p class="p_text p2">轻薄本！火热发售！</p>
+				    	    <p class="p_text p3">3,999元</p>	
+			    	    </div>
+			    	    		    			<div class="floor_img">
+			    			<a><img src="http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg"/></a>
+			    			<p class="p_text p1">小新Air 12 (6Y30/Windows 10 </p>
+				    		<p class="p_text p2">轻薄本！火热发售！</p>
+				    	    <p class="p_text p3">3,999元</p>	
+			    	    </div>
+			    	    		    			<div class="floor_img">
+			    			<a><img src="http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg"/></a>
+			    			<p class="p_text p1">小新Air 12 (6Y30/Windows 10 </p>
+				    		<p class="p_text p2">轻薄本！火热发售！</p>
+				    	    <p class="p_text p3">3,999元</p>	
+			    	    </div>
+			    	    		    			<div class="floor_img">
+			    			<a><img src="http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg"/></a>
+			    			<p class="p_text p1">小新Air 12 (6Y30/Windows 10 </p>
+				    		<p class="p_text p2">轻薄本！火热发售！</p>
+				    	    <p class="p_text p3">3,999元</p>	
+			    	    </div>
+		    		</div>
+	    		</div>-->
+
+	    	</div>
+		   	<div name="subfloor" class="sixthfloor_box">
+		   		<div class="sixthfloor_content">
+			   		<h3>6F 社交平台</h3>
+			    	<ul class="sixthfloor">
+			    		<li>
+			    			<a href="#"><img src="http://p3.lefile.cn/product/adminweb/2016/10/28/a395173e-ef02-4fde-ad72-fd53058acbad_1.jpg"/>
+			    		        <div class="a_sub">
+			    		        	<em class="em1"></em>
+			    		        	<span>联想社区</span>
+			    		        </div>
+			    		    </a>
+			    		</li>
+			    		<li><a href="#"><img src="http://p3.lefile.cn/product/adminweb/2016/10/17/3599f394-3384-4aac-9500-1c8b36cec511.jpg"/>
+			    		    <div class="a_sub">
+			    		        	<em class="em2"></em>
+			    		        	<span>联想社区</span>
+			    		        </div>
+			    		</a></li>
+			    		<li><a href="#"><img src="http://p2.lefile.cn/product/adminweb/2016/10/18/05173a19-dd5c-42b2-b7aa-e0b7938f0e0b.jpg"/>
+			    		    <div class="a_sub">
+			    		        	<em class="em3"></em>
+			    		        	<span>联想社区</span>
+			    		        </div>
+			    		</a></li>
+			    		<li><a href="#"><img src="http://p1.lefile.cn/product/adminweb/2016/10/17/f8f08d27-5b4a-41d0-8cf4-c284c777a1c9.jpg"/>
+			    		      <div class="a_sub">
+			    		        	<em class="em4"></em>
+			    		        	<span>联想社区</span>
+			    		        </div>
+			    		
+			    		</a></li>
+			    		<li><a href="#"><img src="http://p1.lefile.cn/product/adminweb/2016/10/17/333a7f2d-df53-4603-b89d-3e950093406e.jpg"/>
+			    		    <div class="a_sub">
+			    		        	<em class="em5"></em>
+			    		        	<span>联想社区</span>
+			    		        </div>
+			    		
+			    		</a></li>
+			    		<li><a style="margin-right:0;" href="#"><img src="http://p2.lefile.cn/product/adminweb/2016/10/17/4091f4bd-ca11-4d66-8fca-ab4f132c280c.jpg"/>
+			    		      <div class="a_sub">
+			    		        	<em class="em6"></em>
+			    		        	<span>联想社区</span>
+			    		        </div>
+			    		  
+			    		</a></li>
+			    	</ul>
+		    	</div>
+		    </div>
+		    
+		    <!--content底部-->
+		    <div style="height:83px;width:100%;background: #f5f5f5;">
+		    	<div style="height:83px;width:1200px;margin:0 auto;">
+		    		<img src="http://p3.lefile.cn/product/adminweb/2016/04/25/8518047e-a59d-4123-ad1f-4a68391ec161.jpg"/>
+		    	</div>
+		    </div>
+	    </div>	
+
+	    
+	    
+	    </div>
+	    	
+<!----------------------------------------footer------------------------------------------->
+        <div id="footer">
+        	<div class="footer_link">
+
+        			<dl>
+        				<dt>购物指南</dt>
+        				<dd>
+        					<a href="#">购物指南</a>
+        					<a href="#">服务商信息</a>
+        					<a href="#">购买流程</a>
+        					<a href="#">注册登录</a>
+        				</dd>
+        			</dl>
+        			
+        			<dl>
+        				<dt>配送方式</dt>
+        				<dd>
+        					<a href="#">配送方式</a>
+        					<a href="#">配送方式信息</a>
+        					<a href="#">签收原则</a>
+        					<a href="#">物流查询</a>
+        				</dd>
+        			</dl>
+                    
+                    <dl>
+        				<dt>支付方式</dt>
+        				<dd>
+        					<a href="#">支付方式</a>
+        					<a href="#">支付问题</a>
+        					<a href="#">分期问题</a>
+        					
+        				</dd>
+        			</dl>
+        			
+        			<dl>
+        				<dt>订单信息</dt>
+        				<dd>
+        					<a href="#">订单信息</a>
+        					<a href="#">其他频道订单发票</a>
+        					<a href="#">手机频道发票</a>
+        				</dd>
+        			</dl>
+        			
+
+        			
+        			<dl>
+        				<dt>售后服务</dt>
+        				<dd>
+        					<a href="#">Lenove频道商品售后</a>
+        					<a href="#">手机频道商品售后七天</a>
+        					<a href="#">无理由退货说明</a>
+        					<a href="#">24小时在线客服</a>
+        				</dd>
+        			</dl>
+        			<dl style="padding-right:0;">
+        				<dt>其他说明</dt>
+        				<dd>
+        					<a href="#">服务承诺</a>
+        					<a href="#">账户安全</a>
+        					<a href="#">产品安全</a>
+        				</dd>
+        			</dl>
+        	</div>
+        	<div class="footer_infor">
+                <ul class="footer_infor1">
+                	<a href="#">关于联想</a>
+                	<a href="#">联系我们</a>
+                	<a href="#">工作机会</a>
+                	<a href="#">新闻中心</a>
+                	<a href="#">聚享汇会员专享</a>
+                	<a href="#">联想社区</a>
+                	<a href="#">NBD</a>
+                	<a href="#">联想超融合</a>
+                	<a href="#">联想官网热搜</a>
+                	<a href="#">联想官网搜索榜</a>
+                	<a href="#">分类大全</a>
+                	<a href="#">联想产品大全</a>
+                	<a style="border:0;" href="#">智慧医疗</a>
+                    <select>
+                    	<option>粤语</option>
+                    	<option>河南话</option>
+                    	<option>东北话</option>
+                    	<option>港腔</option>
+                    </select>
+                </ul>
+                <ul class="footer_infor1">
+                	<a href="#">版权所有：1998-2016 联想集团</a>
+                	<a href="#">法律公告</a>
+                	<a href="#">隐私保护</a>
+                	<a href="#">京ICP备11035381</a>
+                	<a href="#">京公网安备110108007970号</a>
+                	<a href="#">营业执照：110000410127232</a>
+                	<a href="#"><span class="span1"></span>销售网点</a>
+                	<a style="border:0;" href="#"><span class="span2"></span>服务网点</a>
+                </ul>
+        	</div>
+        </div>	
+        	<!--楼梯导航-->
+	        <div class="floor_nav">
+	        	<ul id="floor_nav">
+	        		<li><a style="background:url(img/icons_sprit.png) no-repeat 3px -457px;" href="javascript:;" ></a><em>明星单品</em><span></span></li>
+	        		<li><a href="javascript:;" style="line-height:12px;color: #4ac0e0;">Leonve<br/>电脑</a><span></span></li>
+	        		<li><a href="javascript:;">2F</a><em>Think电脑</em><span></span></li>
+	        		<li><a href="javascript:;">3F</a><em>平板电脑</em><span></span></li>
+	        		<li><a href="javascript:;">4F</a><em>手机产品</em><span></span></li>
+	        		<li><a href="javascript:;">5F</a><em>增值服务</em><span></span></li>
+	        		<li><a href="javascript:;">6F</a><em>社交平台</em></li>
+	        	</ul>
+	        </div>
+	         <div class="sidebar_right">
+	        	<ul id="sidebar_right">
+	        		<li><a style="background-position:-4px -487px;" href="#">热线</a></li>
+	        		<li><a style="background-position:-48px -487px;" href="#">咨询</a></li>
+	        		<li><a style="background-position:-97px -487px;" href="#">名店</a></li>
+	        		<li><a style="background-position:-144px -487px;" href="#">反馈</a></li>
+	        		<span></span>
+
+	        	</ul>
+	        	<div class="sidebar_hidden1">
+	        		<dl>
+	        			<dt style="	background-position: 0 -530px;"></dt>
+	        			<dd>商城服务热线<br/>400-8888-200</dd>
+	        		    <dt style="	background-position: -63px -530px;"></dt>        			
+	        			<dd>商城服务热线<br/>400-8888-200</dd>
+	        			<dt style="	background-position: -128px -530px;"></dt>	        			
+	        			<dd>商城服务热线<br/>400-8888-200</dd>
+	        			<dt style="	background-position: -195px -530px;"></dt>	        			
+	        			<dd>商城服务热线<br/>400-8888-200</dd>
+	        			<dt style="	background-position: -256px -530px;"></dt>	        			
+	        			<dd>商城服务热线<br/>400-8888-200</dd>
+	        		</dl>
+	        	</div>
+	        	
+	            <div class="sidebar_hidden2">
+	        		<dl>
+	        			<dt style="	background-position: -261px -530px;"></dt>
+	        			<dd>商城服务热线<br/>400-8888-200</dd>
+	        		    <dt style="	background-position: -325px -530px;"></dt>        			
+	        			<dd>商城服务热线<br/>400-8888-200</dd>
+	        			<dt style="	background-position: -390px -530px;"></dt>	        			
+	        			<dd>商城服务热线<br/>400-8888-200</dd>
+	        		</dl>
+	        	</div>
+	        	
+	        </div>
+	</body>
+</html>

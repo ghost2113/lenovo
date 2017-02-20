@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link rel="stylesheet" href="css/main.css"/>
+		<link rel="stylesheet" href="css/style.css"/>
+		<script src="http://libs.baidu.com/jquery/2.0.0/jquery.js"></script>
+		<script type="text/javascript" src="js/jquery.cookie.js" ></script>
+		<script type="text/javascript" src="js/goodslist.js" ></script>
+		<script type="text/javascript" src="js/shopcart.js" ></script>
+		<script type="text/javascript" src="js/register.js" ></script>
+		<script type="text/javascript" src="js/login.js" ></script>
+		
+	</head>
+	<body>
+		<!---------------------------------------头部------------------------------------------------->
+		<div id="header">
+			<div class="header">
+				<ul class="header_login">
+					<li><a class="login_open" href="javascript:;">登陆</a><em></em></li>
+					<li><a class="register_open" href="javascript:;">注册</a></li>
+				</ul>
+				<!-----------------------------登陆界面父级为body------------------------------>	
+				<div class="login_bg">
+					<div class="login">
+						<div class="login_title">
+							<h3>普通登录</h3>
+							<h3 style="margin-left:1px;">快捷登录</h3>
+							<button class="login_bg_close"></button>
+						</div>
+						<div class="login_name">
+							<div></div>
+							<input class="login_name_phone1" type="text" placeholder="请输入用户名"/>
+							<input class="login_phone2" type="text" placeholder="请输入用户名/邮箱"/>
+						</div>
+						<div class="login_pass">
+							<div></div>
+							<input class="login_pass_phone1" type="text" placeholder="请输入密码"/>
+							<input class="login_code_value" type="text" placeholder="动态密码"/>
+							<span class="login_code">获取动态密码</span>
+						</div>
+						<div class="login_check">
+							<input type="checkbox" />
+							<span>自动登录</span>
+						</div>
+						<input  class="login_submit" type="submit" value="登录"/>
+						<div class="login_footer">
+							<a href="javascript:;">立即注册</a><span></span>
+							<a href="javascript:;">忘记密码？</a>
+						</div>
+						
+						<p class="login_link_title">使用合作网站账号登录</p>
+						<ul class="login_link">
+							<a style="background:url(http://m1.lefile.cn/lenovo_passport/0.4.9/images/ico_qq.png);" href="javascript:;"></a>
+							<a style="background:url(http://m2.lefile.cn/lenovo_passport/0.4.9/images/ico_sina.png)" href="javascript:;"></a>
+							<a style="background:url(http://m2.lefile.cn/lenovo_passport/0.4.9/images/ico_wc.png)" href="javascript:;"></a>
+							<a style="background:url(http://m1.lefile.cn/lenovo_passport/0.4.9/images/ico_zfb.png)" href="javascript:;"></a>
+						</ul>
+						
+						<div class="login_link"></div>
+					</div>
+				</div>
+<!-----------------------------注册界面父级为body------------------------------>
+				<div class="register_bg">
+					<div class="register">
+						<div class="register_title">
+							<h1>欢迎注册联想会员</h1>
+							<button></button>
+						</div>
+						<div id="register_content" class="register_content">
+							<span>账号</span>
+							<input id="name" class="input1" type="text" placeholder="请输入用户名/邮箱/账户名">
+							<p class="errormsg_name">*此项为必填项</p>
+							
+		                    <span>密码</span>
+							<input id="password" class="input1" type="password" placeholder="请输入密码">
+							<p class="errormsg_password">*此项为必填项</p>
+							
+							<span>确认密码</span>							
+							<input  id="password_check" class="input1" type="password" placeholder="">
+							<p class="errormsg_password_check">*此项为必填项</p>
+							
+							
+							<span>验证码</span>							
+							<input class="codevalue" type="text" placeholder="">
+							<span class="code"></span>
+							<button class="changecode">换一张</button>
+			                <p class="coderesult">*此项为必填项</p>
+			                <br />		                
+							
+							<p class="p_check"><input id="check" class="check" type="checkbox" checked="" />请同意联想的隐藏<a href="javascript:;">条款和协议</a></p>
+							
+							<input class="submit" type="submit" value="立即注册" />
+							
+						</div>
+			        </div>
+                </div>
+            </div>    
+	   </div>
+	   
+	   
+	   
+	   <div id="content">
+	   	    <div class="cart_title">
+	   	    	<img style="float:left;display:block;" src="http://m1.lefile.cn/trade/pc/images/pic-13.jpg" />
+	   	    	<img style="float:right;display:block;" src="http://m1.lefile.cn/trade/pc/images/pic-12.jpg" />
+	   	    </div>
+	   	    
+	   	    <div class="cart_nav">
+	   	    	<input type="checkbox" checked=""  value="全选"/>
+		   	    <span>商品</span>
+		   	    <span>名称</span>
+		   	    <span>单价</span>
+		   	    <span>数量</span>
+		   	    <span>金额</span>
+		   	    <span>操作</span>    
+	   	    </div>
+	   	    <ul class="cart_list">
+	   <!--	    	<li>
+	   	    		<input type="checkbox"  />
+	   	    		<span><img src="" /></span>
+	   	    		<span>名称</span>
+			   	    <span>单价</span>
+			   	    <span>数量</span>
+			   	    <span>金额</span>
+			   	    <button>删除</button>
+	   	    	</li>-->
+	   	    </ul>
+	   </div>
+     <div id="footer">
+        	<div class="footer_link">
+
+        			<dl>
+        				<dt>购物指南</dt>
+        				<dd>
+        					<a href="#">购物指南</a>
+        					<a href="#">服务商信息</a>
+        					<a href="#">购买流程</a>
+        					<a href="#">注册登录</a>
+        				</dd>
+        			</dl>
+        			
+        			<dl>
+        				<dt>配送方式</dt>
+        				<dd>
+        					<a href="#">配送方式</a>
+        					<a href="#">配送方式信息</a>
+        					<a href="#">签收原则</a>
+        					<a href="#">物流查询</a>
+        				</dd>
+        			</dl>
+                    
+                    <dl>
+        				<dt>支付方式</dt>
+        				<dd>
+        					<a href="#">支付方式</a>
+        					<a href="#">支付问题</a>
+        					<a href="#">分期问题</a>
+        					
+        				</dd>
+        			</dl>
+        			
+        			<dl>
+        				<dt>订单信息</dt>
+        				<dd>
+        					<a href="#">订单信息</a>
+        					<a href="#">其他频道订单发票</a>
+        					<a href="#">手机频道发票</a>
+        				</dd>
+        			</dl>
+        			
+
+        			
+        			<dl>
+        				<dt>售后服务</dt>
+        				<dd>
+        					<a href="#">Lenove频道商品售后</a>
+        					<a href="#">手机频道商品售后七天</a>
+        					<a href="#">无理由退货说明</a>
+        					<a href="#">24小时在线客服</a>
+        				</dd>
+        			</dl>
+        			<dl style="padding-right:0;">
+        				<dt>其他说明</dt>
+        				<dd>
+        					<a href="#">服务承诺</a>
+        					<a href="#">账户安全</a>
+        					<a href="#">产品安全</a>
+        				</dd>
+        			</dl>
+        	</div>
+        	<div class="footer_infor">
+                <ul class="footer_infor1">
+                	<a href="#">关于联想</a>
+                	<a href="#">联系我们</a>
+                	<a href="#">工作机会</a>
+                	<a href="#">新闻中心</a>
+                	<a href="#">聚享汇会员专享</a>
+                	<a href="#">联想社区</a>
+                	<a href="#">NBD</a>
+                	<a href="#">联想超融合</a>
+                	<a href="#">联想官网热搜</a>
+                	<a href="#">联想官网搜索榜</a>
+                	<a href="#">分类大全</a>
+                	<a href="#">联想产品大全</a>
+                	<a style="border:0;" href="#">智慧医疗</a>
+                    <select>
+                    	<option>粤语</option>
+                    	<option>河南话</option>
+                    	<option>东北话</option>
+                    	<option>港腔</option>
+                    </select>
+                </ul>
+                <ul class="footer_infor1">
+                	<a href="#">版权所有：1998-2016 联想集团</a>
+                	<a href="#">法律公告</a>
+                	<a href="#">隐私保护</a>
+                	<a href="#">京ICP备11035381</a>
+                	<a href="#">京公网安备110108007970号</a>
+                	<a href="#">营业执照：110000410127232</a>
+                	<a href="#"><span class="span1"></span>销售网点</a>
+                	<a style="border:0;" href="#"><span class="span2"></span>服务网点</a>
+                </ul>
+        	</div>
+    </div>
+	</body>
+</html>

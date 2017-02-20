@@ -1,0 +1,1662 @@
+[
+    {
+        "name":"Lenovo笔记本",
+        "list":[
+            {
+                 "id":"shop1",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"            
+                 ]
+            },
+                        {
+                 "id":"shop2",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop3",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop4",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop5",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop6",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop7",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop8",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }                 
+        ]
+    },
+    {
+        "name":"Think笔记本",
+        "list":[
+            {
+                 "id":"shop1",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p3.lefile.cn/product/adminweb/2016/08/17/pFor6qvY5Z5lAVHUlKMXYfizK-8365.w164.jpg",  
+                 "price":"商城价2699元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ]
+            },
+                        {
+                 "id":"shop2",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价899元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                    "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                    "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop3",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价299元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ]
+            }, 
+                        {
+                 "id":"shop4",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价3元"
+            }, 
+                        {
+                 "id":"shop5",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2499元"
+            }, 
+                        {
+                 "id":"shop6",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价269元"
+            }, 
+                        {
+                 "id":"shop7",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2789元"
+            }, 
+                        {
+                 "id":"shop8",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2009元"
+            }, 
+                        {
+                 "id":"shop9",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2569元"
+            } 
+                 
+        ]
+    },
+        {
+        "name":"Lenovo台式机",
+        "list":[
+            {
+                 "id":"shop1",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/18M4UXb7X8EujEoNGjGkWA84r-8467.w160xh160.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"            
+                 ]
+            },
+                        {
+                 "id":"shop2",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop3",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop4",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop5",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop6",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop7",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop8",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }                 
+        ]
+    },
+        {
+        "name":"Thing台式机",
+        "list":[
+            {
+                 "id":"shop1",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/16/0VI374vmQqVNdnpGraQHDgsrF-5614.w160xh160.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"            
+                 ]
+            },
+                        {
+                 "id":"shop2",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop3",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop4",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop5",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop6",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop7",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop8",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }                 
+        ]
+    },
+        {
+        "name":"Lenovo平板电脑",
+        "list":[
+            {
+                 "id":"shop1",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/16/0D0MZjqbvJJrzEA13MyBo1wKn-0368.w160xh160.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"            
+                 ]
+            },
+                        {
+                 "id":"shop2",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop3",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop4",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop5",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop6",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop7",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop8",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }                 
+        ]
+    },
+        {
+        "name":"Think平板电脑",
+        "list":[
+            {
+                 "id":"shop1",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/10/19/T4rHaJBqCumwYqT7kDMGEwbpj-8081.w160xh160.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"            
+                 ]
+            },
+                        {
+                 "id":"shop2",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop3",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop4",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop5",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop6",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop7",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop8",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }                 
+        ]
+    },
+        {
+        "name":"打印机",
+        "list":[
+            {
+                 "id":"shop1",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/11/02/JEO8ueAXNCxyoR5vdgu9oEhI6-3309.w160xh160.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"            
+                 ]
+            },
+                        {
+                 "id":"shop2",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop3",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop4",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop5",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop6",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop7",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop8",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }                 
+        ]
+    },
+        {
+        "name":"Lenovo笔记本",
+        "list":[
+            {
+                 "id":"shop1",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"            
+                 ]
+            },
+                        {
+                 "id":"shop2",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop3",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop4",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop5",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop6",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop7",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop8",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }                 
+        ]
+    },
+        {
+        "name":"智能数码",
+        "list":[
+            {
+                 "id":"shop1",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/11/02/Enu5goVef6eEIO6qar0LgeOrD-0787.w160xh160.jpg",  
+                 "price":"商城价2999元"
+                 
+            },
+                        {
+                 "id":"shop2",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元"
+                 
+            }, 
+                        {
+                 "id":"shop3",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元"
+                
+            }, 
+                        {
+                 "id":"shop4",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元"
+                
+            }, 
+                        {
+                 "id":"shop5",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop6",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop7",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }, 
+                        {
+                 "id":"shop8",
+                 "name":"小新Air 12 (6Y30/Windows 10 家庭版/WiFi/12.2英寸/4G/128G)",
+                 "src":"http://p1.lefile.cn/product/adminweb/2016/08/15/KrSWdKJd453n4lbWrCcVdgr8a-4391.w164.jpg",  
+                 "price":"商城价2999元",
+                 "remind":"电脑也能直接4G上网？小新air12 LTE版自带48G流量！",
+                 "big":"http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                 "subimg":[
+                     "http://p1.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w84.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w84.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w84.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w84.jpg"
+                 ],
+                 "upimg":[
+                     "http://p2.lefile.cn/product/adminweb/2016/08/15/ckYw1LxOaBkz0MMnpci6D1yzd-6966.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/wBOB7ba5bAz9QsvrMwsob8xbe-1482.w544.jpg",
+                     "http://p4.lefile.cn/product/adminweb/2016/06/21/pnaC5WN1lmHfrMCWxfzGql82i-2327.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/06/21/s1m28J48weLNHzH1SDtdRIEpW-2304.w544.jpg",
+                     "http://p1.lefile.cn/product/adminweb/2016/10/26/bpReOWJoFOQGPKlq9Qrj07zOW-4649.w544.jpg",
+                     "http://p2.lefile.cn/product/adminweb/2016/10/19/7kSSvjfl3TClYk3sjOrIYvZTa-6292.w544.jpg"
+            
+                 ]
+            }                 
+        ]
+    }
+]
